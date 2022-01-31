@@ -7,5 +7,4 @@ int main() {
 y = x * x;
  cout << "Double that number is : " << y ;
 return 0 ;
-
 }
